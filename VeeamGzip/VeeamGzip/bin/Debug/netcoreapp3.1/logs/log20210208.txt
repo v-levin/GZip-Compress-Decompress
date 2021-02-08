@@ -1,0 +1,42 @@
+2021-02-08 21:20:23.724 +01:00 [INF] Application started at 2/8/2021 9:20:23 PM
+2021-02-08 21:20:40.989 +01:00 [INF] Decompressing started at 2/8/2021 9:20:40 PM
+2021-02-08 21:20:41.087 +01:00 [ERR] The archive entry was compressed using an unsupported compression method.
+2021-02-08 21:20:57.687 +01:00 [INF] Application started at 2/8/2021 9:20:57 PM
+2021-02-08 21:21:16.241 +01:00 [INF] Decompressing started at 2/8/2021 9:21:16 PM
+2021-02-08 21:34:18.519 +01:00 [INF] Application started at 2/8/2021 9:34:18 PM
+2021-02-08 21:34:31.061 +01:00 [INF] Compressing started at 2/8/2021 9:34:31 PM
+2021-02-08 21:40:41.265 +01:00 [INF] Application started at 2/8/2021 9:40:41 PM
+2021-02-08 21:41:00.689 +01:00 [INF] Compressing started at 2/8/2021 9:41:00 PM
+2021-02-08 21:41:58.466 +01:00 [INF] Application started at 2/8/2021 9:41:58 PM
+2021-02-08 21:42:06.684 +01:00 [INF] Compressing started at 2/8/2021 9:42:06 PM
+2021-02-08 21:43:53.450 +01:00 [INF] Application started at 2/8/2021 9:43:53 PM
+2021-02-08 21:44:01.608 +01:00 [INF] Compressing started at 2/8/2021 9:44:01 PM
+2021-02-08 21:44:56.955 +01:00 [INF] Application started at 2/8/2021 9:44:56 PM
+2021-02-08 21:45:03.746 +01:00 [INF] Compressing started at 2/8/2021 9:45:03 PM
+2021-02-08 21:46:21.156 +01:00 [INF] Application started at 2/8/2021 9:46:21 PM
+2021-02-08 21:46:29.388 +01:00 [INF] Compressing started at 2/8/2021 9:46:29 PM
+2021-02-08 21:48:57.732 +01:00 [INF] Application started at 2/8/2021 9:48:57 PM
+2021-02-08 21:49:08.165 +01:00 [INF] Decompressing started at 2/8/2021 9:49:08 PM
+2021-02-08 21:52:24.390 +01:00 [INF] Application started at 2/8/2021 9:52:24 PM
+2021-02-08 21:52:34.303 +01:00 [INF] Compressing started at 2/8/2021 9:52:34 PM
+2021-02-08 21:55:28.633 +01:00 [INF] Application started at 2/8/2021 9:55:28 PM
+2021-02-08 21:55:42.791 +01:00 [INF] Compressing started at 2/8/2021 9:55:42 PM
+2021-02-08 21:56:45.859 +01:00 [INF] Application started at 2/8/2021 9:56:45 PM
+2021-02-08 21:57:14.397 +01:00 [INF] Compressing started at 2/8/2021 9:57:14 PM
+2021-02-08 21:57:34.552 +01:00 [INF] Application started at 2/8/2021 9:57:34 PM
+2021-02-08 21:57:44.553 +01:00 [INF] Decompressing started at 2/8/2021 9:57:44 PM
+2021-02-08 21:58:52.017 +01:00 [INF] Application started at 2/8/2021 9:58:52 PM
+2021-02-08 21:59:07.621 +01:00 [INF] Compressing started at 2/8/2021 9:59:07 PM
+2021-02-08 22:06:58.799 +01:00 [INF] Application started at 2/8/2021 10:06:58 PM
+2021-02-08 22:07:07.273 +01:00 [INF] Compressing started at 2/8/2021 10:07:07 PM
+2021-02-08 22:07:35.777 +01:00 [INF] Application started at 2/8/2021 10:07:35 PM
+2021-02-08 22:07:47.663 +01:00 [INF] Compressing started at 2/8/2021 10:07:47 PM
+2021-02-08 22:27:14.847 +01:00 [INF] Application started at 2/8/2021 10:27:14 PM
+2021-02-08 22:27:26.670 +01:00 [INF] Compressing file viktor.txt started at 2/8/2021 10:27:26 PM
+2021-02-08 22:27:31.771 +01:00 [INF] Compressing file viktor.txt finished at 2/8/2021 10:27:31 PM
+2021-02-08 22:28:13.487 +01:00 [INF] Application started at 2/8/2021 10:28:13 PM
+2021-02-08 22:28:30.128 +01:00 [INF] Decompressing file viktor.gz started at 2/8/2021 10:28:30 PM
+2021-02-08 22:28:40.993 +01:00 [ERR] The archive entry was compressed using an unsupported compression method.
+2021-02-08 22:28:49.940 +01:00 [INF] Application started at 2/8/2021 10:28:49 PM
+2021-02-08 22:29:08.801 +01:00 [INF] Decompressing file test.zip started at 2/8/2021 10:29:08 PM
+2021-02-08 22:29:10.196 +01:00 [INF] Decompressing file test.zip finished at 2/8/2021 10:29:10 PM
