@@ -70,7 +70,8 @@ namespace VeeamGzip
             if (commandArgs.Length > 1)
             {
                 existingFile = commandArgs[1];
-                if (!CheckIfFileExists(existingFile, ref input)) return false;
+                if (!CheckIfFileExists(existingFile, ref input)) 
+                    return false;
             }
 
             return true;
