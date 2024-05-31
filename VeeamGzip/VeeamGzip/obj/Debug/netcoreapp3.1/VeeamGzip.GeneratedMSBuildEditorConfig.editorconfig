@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = VeeamGzip
+build_property.ProjectDir = C:\Projects\GZip-Compress-Decompress\VeeamGzip\VeeamGzip\
